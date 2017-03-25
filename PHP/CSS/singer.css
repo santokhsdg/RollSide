@@ -1,0 +1,40 @@
+
+
+
+
+.forbar{
+background-color: rgba(5,4,2,0.1);
+width:900px;
+height: 100%;
+margin-left:auto;
+margin-right:auto;
+ }
+ .text
+ {
+	 color : #000;
+ }
+
+
+#progressBar {
+	background-color: #3E6FAD;
+	width: 0px;
+	height: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+	-moz-transition: .25s ease-out;
+	-webkit-transition: .25s ease-out;
+	-o-transition: .25s ease-out;
+	transition: .25s ease-out;
+}
+
+body { 
+ background: url('Images/12345.jpg') no-repeat center center fixed; 
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
