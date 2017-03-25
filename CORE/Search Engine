@@ -1,3 +1,4 @@
 
 RollSide Search Engine
-The rollSide Search engine is private to the owner. The users/fellow developer can make their own database search in the files provided as SearchRefer.php and SearchReq.php
+1.The rollSide Search engine is private to the owner. The users/fellow developer can make their own database search in the files provided as SearchRefer.php and SearchReq.php
+2. The Search functionality will remain disabled without the search engine.
